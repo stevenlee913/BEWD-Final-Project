@@ -1,2 +1,2 @@
 For my final project I want to...
-make an anonmyous rating tool
+make an anonymous rating tool using linkedin's API for pictures and names.
