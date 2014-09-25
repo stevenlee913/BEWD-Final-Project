@@ -9,4 +9,9 @@ Clicking on a single result will lightbox the linkedin profile to a details page
 I am working with Shuang Wu for this Web App.
 
 
-
+USER STORIES:
+As a user we can search for users
+As a user we can create a user
+As a user we can comment on other users
+As a user we rate other users
+As a user we view users pictures and name
